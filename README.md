@@ -17,7 +17,7 @@
 </div>
 
 For more information about the product, check [rainloop.net](http://www.rainloop.net/).
-
+For a demo, check [mail.rainloop.net](https://mail.rainloop.net/).
 Information about installing the product, check the [documentation page](http://www.rainloop.net/docs/installation/).
 
 ## License
